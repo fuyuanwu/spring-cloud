@@ -1,0 +1,8 @@
+server:
+  port: 9005
+  servlet:
+    context-path: /config-server
+
+logging:
+  level:
+    org.springframework: debug
